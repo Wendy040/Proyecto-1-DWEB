@@ -1,0 +1,2 @@
+Esto es una prueba de que .gitignore puede hacer que una carpeta no la tome en cuenta la aplicación de Git 
+para el seguimiento de versiones
